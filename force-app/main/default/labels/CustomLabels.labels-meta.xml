@@ -8,6 +8,13 @@
         <value>label dev3</value>
     </labels>
     <labels>
+        <fullName>label_dev2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>label dev2</shortDescription>
+        <value>label dev2</value>
+    </labels>
+    <labels>
         <fullName>label_liquad</fullName>
         <language>en_US</language>
         <protected>false</protected>
